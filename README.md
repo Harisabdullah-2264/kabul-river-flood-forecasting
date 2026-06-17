@@ -2,6 +2,7 @@
 
 Code and data for the MSc thesis *"Explainable Machine Learning for Flood-Flow Prediction of the Kabul River at Nowshera"* (GIK Institute). The project predicts daily discharge of the Kabul River at Nowshera 1, 2, and 3 days ahead and uses SHAP to explain the predictions.
 
+The WAPDA observed discharge data were used for academic research purposes. Users must obtain permission from the relevant data provider before redistributing or reusing the observed discharge record.
 This repository contains the reproducible code and data-processing workflow for the MSc thesis. The code is provided for academic transparency and reproducibility.
 
 ## What the project does
