@@ -2,7 +2,7 @@
 
 Code and data for the MSc thesis *"Explainable Machine Learning for Flood-Flow Prediction of the Kabul River at Nowshera"* (GIK Institute). The project predicts daily discharge of the Kabul River at Nowshera 1, 2, and 3 days ahead and uses SHAP to explain the predictions.
 
-> **Before you publish this repo:** replace every occurrence of `Harisabdullah-2264` in the thesis and in this README with your actual GitHub username, and rename the repository if you wish. Then upload the three scripts and (optionally) the data into the folder structure below.
+This repository contains the reproducible code and data-processing workflow for the MSc thesis. The code is provided for academic transparency and reproducibility.
 
 ## What the project does
 
